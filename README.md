@@ -4,21 +4,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rustypotato19&label=Profile%20views&color=0e75b6&style=flat" alt="rustypotato19" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustypotato19" alt="rustypotato19" /></a> </p>
-<p align="center">
-- 🔭 I’m currently working on [[My Website!]|(www.rustyws.com)]
+<p align="center">🔭 I’m currently working on My Website! --> www.rustyws.com</p>
 
-- 👯 I’m looking to collaborate on **anything and everything, hit me up!**
+<p align="center">👯 I’m looking to collaborate on **anything and everything, hit me up!**</p>
 
-- 👨‍💻 All of my projects are available at **[coming soon!]**
+<p align="center">👨‍💻 All of my projects are available at **[coming soon!]**</p>
 
-- 💬 Ask me about **Jenkins, C++ or Embedded Develpoment**
+<p align="center">💬 Ask me about **Jenkins, C++ or Embedded Develpoment**</p>
 
-- 📫 How to reach me **contact@rustyws.com**
+<p align="center"> 📫 How to reach me **contact@rustyws.com**</p>
 
-- 📄 Know about my experiences **[coming soon!]**
+<p align="center">📄 Know about my experiences **[coming soon!]**</p>
 
-- ⚡ Fun fact **I'm Polish, and a Semi-Competent Software Engineer**
-</p>
+<p align="center">⚡ Fun fact **I'm Polish, and a Semi-Competent Software Engineer**</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
