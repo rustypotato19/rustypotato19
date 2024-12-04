@@ -8,13 +8,13 @@
 
 <p align="center">👯 I’m looking to collaborate on <strong>anything and everything, hit me up!</strong></p>
 
-<p align="center">👨‍💻 All of my projects are available at <strong>[coming soon!]</strong></p>
+<p align="center">👨‍💻 All of my projects are available at: <strong>[coming soon!]</strong></p>
 
-<p align="center">💬 Ask me about <strong>Jenkins, C++ or Embedded Develpoment</strong></p>
+<p align="center">💬 Ask me about: <strong>Jenkins, C++ or Embedded Develpoment</strong></p>
 
-<p align="center"> 📫 How to reach me <strong>contact@rustyws.com</strong></p>
+<p align="center"> 📫 How to reach me: <strong>contact@rustyws.com</strong></p>
 
-<p align="center">📄 Know about my experiences <strong>[coming soon!]</strong></p>
+<p align="center">📄 Know about my experiences: <strong>[coming soon!]</strong></p>
 
 <p align="center">⚡ Fun fact - I'm Polish, and a Semi-Competent Software Engineer</p>
 
