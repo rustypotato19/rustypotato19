@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustypotato19" alt="rustypotato19" /></a> </p>
 <p align="center">
-- 🔭 I’m currently working on [My Website!](www.rustyws.com)
+- 🔭 I’m currently working on [[My Website!]|(www.rustyws.com)]
 
 - 👯 I’m looking to collaborate on **anything and everything, hit me up!**
 
