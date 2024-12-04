@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustypotato19" alt="rustypotato19" /></a> </p>
 
-<p align="center"><img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustypotato19&show_icons=true&locale=en&layout=compact" alt="rustypotato19" />&nbsp;<img height="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=rustypotato19&show_icons=true&locale=en" alt="rustypotato19" /></p>
+<p align="center"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustypotato19&show_icons=true&locale=en&layout=compact" alt="rustypotato19" />&nbsp;<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=rustypotato19&show_icons=true&locale=en" alt="rustypotato19" /></p>
 
 <p align="center">🔭 I’m currently working on My Website! --> <strong>www.rustyws.com</strong></p>
 
