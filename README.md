@@ -7,7 +7,7 @@
 
 <p align="center"><img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustypotato19&show_icons=true&locale=en&layout=compact" alt="rustypotato19" />&nbsp;<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=rustypotato19&show_icons=true&locale=en" alt="rustypotato19" /></p>
 
-<p align="center">🌐 Check Out My Website! --> <strong>www.rustyws.com</strong> 🌐</p>
+<p align="center">🌐 Check Out My Website! --> --soon!-- 🌐</p>
 
 <h3 align="center">My Languages and Tools:</h3>
 <p align="center"> 
