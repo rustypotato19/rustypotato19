@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rusty</h1>
+<h1 align="center">Hi 👋, I'm Rusty (or Konrad)</h1>
 <h3 align="center">A passionate Software Engineer from the UK/Poland</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rustypotato19&label=Profile%20views&color=0e75b6&style=flat" alt="rustypotato19" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustypotato19" alt="rustypotato19" /></a> </p>
-
-<p align="center"><img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustypotato19&show_icons=true&locale=en&layout=compact" alt="rustypotato19" />&nbsp;<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=rustypotato19&show_icons=true&locale=en" alt="rustypotato19" /></p>
 
 <p align="center">🌐 Check Out My Website! --> www.aboutkonrad.com 🌐</p>
 
@@ -23,3 +17,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rustypotato19&label=Profile%20views&color=0e75b6&style=flat" alt="rustypotato19" /> </p>
